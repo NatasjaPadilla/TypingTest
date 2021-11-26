@@ -1,0 +1,8 @@
+Your Test Score
+WPM: 38
+Typos: 2
+Accuracy: 96%
+Your Test Score
+WPM: 47
+Typos: 1
+Accuracy: 97.87%
